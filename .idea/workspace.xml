@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f0d9abe6-c879-4628-8fbb-8c751b82fa64" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/packet_sniffer.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1Y6LMo1UCmBQpbM9KxSxmGPdK17" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f0d9abe6-c879-4628-8fbb-8c751b82fa64" name="Default Changelist" comment="" />
+      <created>1582258051842</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582258051842</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="629" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1582396030867">
+      <screen x="50" y="27" width="1870" height="1053" />
+    </state>
+    <state x="629" y="381" key="com.intellij.ide.util.TipDialog/50.27.1870.1053@50.27.1870.1053" timestamp="1582396030867" />
+  </component>
+</project>
